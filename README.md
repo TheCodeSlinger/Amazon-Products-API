@@ -1,10 +1,9 @@
-# Amazon-Products-API
+# Amazon Products API
 A PHP class that uses REST to make requests against Amazon's Products API
 
-
-# AmazonProductRequest 
-
-A lightweight and easily extendable class for making REST requests to Amazon's Product Advertising API.
+## Derived
+This is derived from AmazonProductRequest by Yaakov Freedman
+Source: https://github.com/yfree/amazon-product-request-php-class
 
 ## Overview
 
